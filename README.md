@@ -1,6 +1,3 @@
-
-<br clear="both">
-
 <h5 align="left">Hi 👋, 
   <br>
   <br>
@@ -58,7 +55,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Affxnt/Affxnt/output/snake.svg" alt="Snake animation" />
 
 ###
