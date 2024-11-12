@@ -1,7 +1,7 @@
 <h3 align="left">Hi 👋, 
   <br>
   <br>
-  I'm Affan, a Co-Op Student @ Concordia University</h3>
+  I'm Affan, a Computer Science Co-Op Student @ Concordia University</h3>
 
 ###
 
